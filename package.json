@@ -1,0 +1,21 @@
+{
+  "name": "template-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.prod.js",
+    "dev": "webpack serve --config webpack.dev.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleskoss/template-repo.git"
+  },
+  "author": "Aleš Molin <molin.ales@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleskoss/template-repo/issues"
+  },
+  "homepage": "https://github.com/Aleskoss/template-repo#readme"
+}
